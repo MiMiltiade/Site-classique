@@ -1,2 +1,2 @@
 # Site-classique
-Un site fait pour m'entrainé inspiré de celui du 'le designer du web'
+Un site fait pour m'entraîner, inspiré de celui fait par 'le designer du web'
